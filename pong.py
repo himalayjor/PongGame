@@ -1,5 +1,4 @@
 # Implementation of classic arcade game Pong
-# Just testing
 
 import pygame, sys
 import random
